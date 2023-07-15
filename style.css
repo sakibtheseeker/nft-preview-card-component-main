@@ -40,19 +40,22 @@ body{
 .title{
     color: var(--White);
     text-align: left;
+    font-weight: 600;
 }
 
 .description{
     color: var(--Soft-blue);
     margin: 10px 0px;
     font-size: 14px;
+    font-weight: 300;
 }
 
 .valuecontainer{
     display: flex;
     justify-content: space-around;
     margin: 10px 0px;
-    font-size: 12px;
+    font-size: 11px;
+    font-weight: 400;
 }
 
 .threshholdvalue{
@@ -86,5 +89,11 @@ height: 20px;
 
 }
 .attributename{
-
+color: var(--Soft-blue);
+display: flex;
 }
+
+.attributefullname{
+    color: var(--White);
+    }
+

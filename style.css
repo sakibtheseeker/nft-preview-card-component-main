@@ -26,11 +26,65 @@ body{
 }
 
 .imgcontainer{
-    border-radius: 20px;
+    border-radius: 10px;
     width: 200px;
-    height: 200px;
+    height: auto;
+    margin: 5px
+}
+.secondcontainer{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
 }
 
 .title{
     color: var(--White);
+    text-align: left;
+}
+
+.description{
+    color: var(--Soft-blue);
+    margin: 10px 0px;
+    font-size: 14px;
+}
+
+.valuecontainer{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0px;
+    font-size: 12px;
+}
+
+.threshholdvalue{
+    color: var(--Cyan);
+    display: flex;
+    align-items: center;
+}
+.timer{
+    color: var(--Soft-blue);
+    display: flex;
+    align-items: center;
+}
+
+.attribute{
+display: flex;
+align-items: center;
+font-size: 12px;
+}
+
+.attributeimgcontainer{
+    width: 20px;
+height: 20px;
+border: var(--White) solid 1px;
+border-radius: 50%;
+}
+
+.attributeimg{
+width: 20px;
+height: 20px;
+
+
+}
+.attributename{
+
 }

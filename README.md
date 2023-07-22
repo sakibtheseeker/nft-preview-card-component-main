@@ -7,8 +7,8 @@
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-component-with-css-flexbox-zqscjYqxBL)
-- Live Site URL: (https://sakibtheseeker.github.io/product-preview-card-component-main/)
+- Solution URL: (https://www.frontendmentor.io/solutions/nft-preview-card-component-MTqj9NRJ8s)
+- Live Site URL: (https://sakibtheseeker.github.io/nft-preview-card-component-main/)
 
 ## My process
 
